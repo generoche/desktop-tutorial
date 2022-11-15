@@ -4,7 +4,7 @@ Machines Can Craft Essays. How Should Writing Be Taught Now?
 
 > Artificial intelligence can now produce prose that accomplishes the learning outcomes of a college writing assignment. What does that say about the assignment?
 
-“It doesn’t feel like something I’d write, but it also doesn’t not feel like something I’d write,” a North Carolina State University student said about their work integrating prose from an artificial intelligence text-generating program into a final course essay. Paul Fyfe, associate professor of English and the student’s instructor in the course, had asked students to “cheat” in this way and then reflect on how the experiment tested or changed their ideas about writing, AI or humanness.
+> It doesn’t feel like something I’d write, but it also doesn’t not feel like something I’d write,” a North Carolina State University student said about their work integrating prose from an artificial intelligence text-generating program into a final course essay. Paul Fyfe, associate professor of English and the student’s instructor in the course, had asked students to “cheat” in this way and then reflect on how the experiment tested or changed their ideas about writing, AI or humanness.
 
 Humans have long relied on writing assistance powered by artificial intelligence to check spelling and grammar, predict text, translate or transcribe. Now, anyone with an internet connection can access an AI tool such as OpenAI or Moonbeam, give it a prompt and receive—in seconds—an essay written in humanlike prose.
 
