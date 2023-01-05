@@ -1,3 +1,5 @@
+## More Things To Add
+
 One of the key skills for long-term sucess in an academic career, either as an administrator or a faculty member is building a more sophisticated understanding of your own cognitive processes.   Most of us think of ourselves as being naturally analytical and logical, but a reading even a couple of books should make us less confident of that natural ability.  Thinking deeply about our learning is hard work and requires learning new sets of skills and habits that we will be covering in more depth in this program.
 
 One useful framework can help us understand the fact that decisions we make are heavily impacted by psychological biases that we are not always aware of. In his best-selling book, Thinking, Fast and Slow, renowned psychologist Daniel Kahneman explores the two different thinking systems that drive the way we process information and make choices.   
@@ -6,7 +8,7 @@ System 1 is fast, intuitive, and emotional. It is the thinking system we use whe
 
 Humans have evolved to count on System 1 thinking for most daily decisions as a way of conserving
 
-What is Daniel Kahneman's theory?
+## What is Daniel Kahneman's theory?
 
 Daniel Kahneman's theory is that two thinking systems drive the way we process information and make decisions. System 1 is fast, intuitive, and emotional. It is the thinking system we use when we make snap judgments or when we need to come up with an answer quickly. System 2 is slower, more deliberative, and more logical. It is the thinking system we use when we need to focus, pay attention, and solve problems. 
 How does this theory impact our decision-making?
