@@ -2,7 +2,7 @@
 Author: Gene Roche
 ---
 
-## More Things To Add
+## More Things To Add to the Overall That Same
 
 One of the key skills for long-term sucess in an academic career, either as an administrator or a faculty member is building a more sophisticated understanding of your own cognitive processes.   Most of us think of ourselves as being naturally analytical and logical, but a reading even a couple of books should make us less confident of that natural ability.  Thinking deeply about our learning is hard work and requires learning new sets of skills and habits that we will be covering in more depth in this program.
 
